@@ -1,0 +1,2 @@
+[2025-08-31T16:54:09.557635+00:00] my-app.INFO: order.transition.ok {"order_id":123,"event":"pay","from":"new","to":"paid","ms":0.6082} []
+[2025-08-31T17:03:42.407272+00:00] my-app.INFO: order.transition.ok {"order_id":123,"event":"pay","from":"new","to":"paid","ms":0.9257} []
